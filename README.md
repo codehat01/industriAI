@@ -1,3 +1,4 @@
+```markdown
 # Green Finance Optimization Platform
 
 An AI-powered platform for evaluating, prioritizing, and optimizing green finance investments using BERT, T5, and UMAP models. This platform helps financial institutions allocate capital to the most impactful and sustainable projects through advanced ESG analysis.
@@ -96,8 +97,15 @@ The platform provides:
 - Portfolio recommendations
 - Dimension-reduced visualizations
 
+## 📊 Dashboard
+
+Below is a screenshot of the platform's dashboard showcasing the ESG analysis and portfolio recommendations.
+
+![Dashboard Screenshot](https://raw.githubusercontent.com/codehat01/industriAI/refs/heads/main/ss.png)
+
 ## 🙏 Acknowledgments
 
 - Hugging Face for BERT and T5 models
 - UMAP-learn developers
 - The open-source community
+```
