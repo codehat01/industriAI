@@ -84,22 +84,9 @@ green-finance-platform/
 │   ├── bert_analyzer.py
 │   ├── t5_analyzer.py
 │   └── umap_reducer.py
-├── utils/
-│   ├── data_processor.py
-│   └── visualization.py
-├── configs/
-│   └── model_config.yaml
 ├── requirements.txt
 └── README.md
 ```
-
-## 🛠️ Configuration
-
-Modify `configs/model_config.yaml` to adjust:
-- Model parameters
-- Batch sizes
-- UMAP settings
-- Optimization constraints
 
 ## 📊 Example Output
 
@@ -109,25 +96,8 @@ The platform provides:
 - Portfolio recommendations
 - Dimension-reduced visualizations
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Hugging Face for BERT and T5 models
 - UMAP-learn developers
 - The open-source community
-
-## 📧 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-Project Link: [https://github.com/yourusername/green-finance-platform](https://github.com/yourusername/green-finance-platform)
